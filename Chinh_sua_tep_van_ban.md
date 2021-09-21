@@ -1,4 +1,4 @@
-# Chỉnh sửa tệp văn bản
+﻿# Chỉnh sửa tệp văn bản
 ### Nhìn vào trình chỉnh sửa văn bản
 Một số trình soạn thảo trên Linux: Vi, Vim nano, geany, ...
 ### Tìm hiểu về trình soạn thảo Vim
